@@ -21,6 +21,13 @@ bản (cộng trừ nhân chia). Sử dụng một số hàm excel cơ bản đ�
  * Tài liệu: IC3 Spark IIG
 
 ## Living Online
-
+* Thao tác tạo Email cá nhân. Hiểu về CC, Bcc, Subject, Insert Image, Attach File,...
+* Hiểu về cách hoạt động cơ bản của internet, IP, các loại mạng WAN, LAN, thành phần của URL (www, domain,...)
+* Các thành phần của trình duyệt, và cách sử dụng chúng (manage Password, Book Mark, Theme, ... )
+* Thực hiện thao tác trên các ứng dụng communicate real time: Skype, Video Call, Chatting, Send Email
+* Học về Safety Internet
+* Khái niệm về Cloud, Lợi ích của việc sử dụng Cloud 
+* 
 ## IC3 Spark Certification
+[IC3 Spark Certification](https://github.com/vdhao-TIEducation/Kid-Programming/blob/master/Content/IC3%20Spark%20Cerfitication.md)
 
