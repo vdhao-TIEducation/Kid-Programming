@@ -26,8 +26,9 @@ bản (cộng trừ nhân chia). Sử dụng một số hàm excel cơ bản đ�
 * Các thành phần của trình duyệt, và cách sử dụng chúng (manage Password, Book Mark, Theme, ... )
 * Thực hiện thao tác trên các ứng dụng communicate real time: Skype, Video Call, Chatting, Send Email
 * Học về Safety Internet
-* Khái niệm về Cloud, Lợi ích của việc sử dụng Cloud 
-* 
+* Khái niệm về Cloud, Lợi ích của việc sử dụng Cloud. Giới thiệu và sử dụng một số loại cloud thông dụng.
+* Tài liệu: 
+	- IC3 Spark IIG Book
 ## IC3 Spark Certification
 [IC3 Spark Certification](https://github.com/vdhao-TIEducation/Kid-Programming/blob/master/Content/IC3%20Spark%20Cerfitication.md)
 
